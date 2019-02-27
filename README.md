@@ -43,10 +43,10 @@ mysql -u root -p
 ```
 - run the following commands in MySQL
 ```
-mysql> drop database IF EXISTS hive;
-mysql> create database hive;
-mysql> use hive;
-mysql> source hive-schema-2.3.0.mysql.sql;
+drop database IF EXISTS hive;
+create database hive;
+use hive;
+source hive-schema-2.3.0.mysql.sql;
 ```
 - Exit MySQL And run the following command:
 ```
