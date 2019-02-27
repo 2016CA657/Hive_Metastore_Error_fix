@@ -20,7 +20,7 @@ cat ~/.ssh/id_rsa.pub >> ~/.ssh/authorized_keys
 sudo apt-get install mysql-server 
 ```
 
-Type in **root** as password when prompted.
+Set password to **root** when prompted.
 
 ## Step 4: Configure Hadoop
 
