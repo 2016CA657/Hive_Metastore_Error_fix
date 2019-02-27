@@ -1,6 +1,6 @@
 # Hive_Metastore_Error_fix
 
-![Error](hive_error.png)
+![Error](error.png)
 
 ## Step 1: Vagrant up
 
