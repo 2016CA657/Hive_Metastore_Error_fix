@@ -53,14 +53,14 @@ mysql> source hive-schema-2.3.0.mysql.sql;
 schematool --dbType mysql --initSchema
 ```
 
-## Step 7: Start hadoop and test it works
+## Step 7: Start hadoop daemons and test hive works
 
 - cd to **/usr/local/hadoop/sbin**
 - start daemons: 
 ```
 ./start-all.sh
 ```
-- launch hive and test it works by creating a table
+- launch hive and test if it works by creating a table
 ```
 create table example( i int, v varchar(10) );
 ```
