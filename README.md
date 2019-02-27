@@ -56,7 +56,7 @@ schematool --dbType mysql --initSchema
 ## Step 7: Start hadoop daemons and test hive works
 
 - cd to **/usr/local/hadoop/sbin**
-- start daemons: 
+- start daemons using: 
 ```
 ./start-all.sh
 ```
