@@ -55,7 +55,7 @@ source hive-schema-2.3.0.mysql.sql;
 schematool --dbType mysql --initSchema
 ```
 
-## Step 7: Start hadoop daemons and test hive works
+## Step 7: Start hadoop daemons and test hive
 
 - cd to **/usr/local/hadoop/sbin**
 - start daemons using: 
