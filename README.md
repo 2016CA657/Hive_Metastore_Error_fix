@@ -1,5 +1,7 @@
 # Hive_Metastore_Error_fix
 
+![Error](hive_error.png)
+
 ## Step 1: Vagrant up
 
 Vagrant up with the vagrant file in this directory
