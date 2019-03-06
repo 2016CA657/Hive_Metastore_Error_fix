@@ -22,7 +22,7 @@ cd /usr/local/hadoop/bin
 hadoop namenode -format
 ```
 
-## Step 7: Start hadoop daemons and test hive
+## Step 4: Start hadoop daemons and test hive
 
 - Start daemons using: 
 ```
